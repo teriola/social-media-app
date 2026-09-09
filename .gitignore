@@ -1,6 +1,9 @@
 ./planet-link/node_modules
 ./social-media-api/node_modules
 .env
+certs/*.crt
+certs/*.key
+EOF
 
 # Editor directories and files
 .vscode/*
